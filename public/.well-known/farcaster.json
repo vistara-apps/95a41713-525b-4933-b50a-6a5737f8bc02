@@ -8,9 +8,9 @@
     "version": "next",
     "name": "YieldBeacon",
     "iconUrl": "https://yieldbeacon.app/icon-256x256.png",
-    "homeUrl": "https://yieldbeacon.app/home",
+    "homeUrl": "https://app-37f8bc02-7629.vercel.app",
     "splashImageUrl": "https://yieldbeacon.app/splash-200x200.png",
     "splashBackgroundColor": "#0a1929",
-    "webhookUrl": "https://yieldbeacon.app/api/webhook"
+    "webhookUrl": "https://app-37f8bc02-7629.vercel.app/api/webhook"
   }
 }

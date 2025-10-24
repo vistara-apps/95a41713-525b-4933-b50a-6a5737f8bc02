@@ -1,0 +1,14 @@
+{
+  "name": "YieldBeacon",
+  "description": "YieldBeacon is a Base Mini App built with Zara.",
+  "image": "https://dummyimage.com/1200x628/0a0b0d/ffffff.png&text=OG",
+  "external_url": "https://95a41713-525b-4933-b50a-6a5737f8bc02.vercel.app",
+  "properties": {
+    "app": {
+      "name": "YieldBeacon",
+      "description": "YieldBeacon is a Base Mini App built with Zara.",
+      "url": "https://95a41713-525b-4933-b50a-6a5737f8bc02.vercel.app",
+      "icon": "https://0co.to/images/zara-2.png"
+    }
+  }
+}
